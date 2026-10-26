@@ -35,7 +35,7 @@ int main() {
 
 %{
 #include "y.tab.h"
-//Sonal Nakhate 24070521199
+//Manaswi Sakharwade 24070521169
 %}
 %%
 [0-9]+ {return NUM;}
