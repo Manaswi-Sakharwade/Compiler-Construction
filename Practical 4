@@ -1,7 +1,7 @@
 %{
 #include <stdio.h>
 #include <stdlib.h>
-//Sonal Nakhate 24070521199
+//Manaswi Sakharwade 24070521169
 
 int yylex(void);
 int yyerror(char *s);
